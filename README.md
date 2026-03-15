@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/nischithakrishna6/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/nischithakrishna6/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/nischithakrishna6/leetcode-solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
