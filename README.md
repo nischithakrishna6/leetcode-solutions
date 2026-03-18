@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/nischithakrishna6/leetcode-solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0189-rotate-array](https://github.com/nischithakrishna6/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
