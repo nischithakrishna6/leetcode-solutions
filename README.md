@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/nischithakrishna6/leetcode-solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0048-rotate-image](https://github.com/nischithakrishna6/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/nischithakrishna6/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/nischithakrishna6/leetcode-solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/nischithakrishna6/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/nischithakrishna6/leetcode-solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/nischithakrishna6/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/nischithakrishna6/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/nischithakrishna6/leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/nischithakrishna6/leetcode-solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
