@@ -2,43 +2,39 @@ class Solution {
     public int myAtoi(String s) {
 
         int i = 0;
-        int n = s.length();
+        int sign = 1;
+        long num = 0;
 
-        // skip spaces
-        while(i < n && s.charAt(i) == ' ') {
+        while(i < s.length() && s.charAt(i) == ' '){
             i++;
         }
 
-        // sign
-        int sign = 1;
+        if(i < s.length() &&
+          (s.charAt(i) == '+' || s.charAt(i) == '-')){
 
-        if(i < n && (s.charAt(i) == '+' || s.charAt(i) == '-')) {
-
-            if(s.charAt(i) == '-') {
+            if(s.charAt(i) == '-'){
                 sign = -1;
             }
 
             i++;
         }
 
-        long num = 0;
-
-        // digits
-        while(i < n && Character.isDigit(s.charAt(i))) {
+        while(i < s.length() &&
+              Character.isDigit(s.charAt(i))){
 
             num = num * 10 + (s.charAt(i) - '0');
 
-            // overflow check
-            if(sign * num > Integer.MAX_VALUE) {
+            if(sign * num > Integer.MAX_VALUE){
                 return Integer.MAX_VALUE;
             }
 
-            if(sign * num < Integer.MIN_VALUE) {
+            if(sign * num < Integer.MIN_VALUE){
                 return Integer.MIN_VALUE;
             }
 
             i++;
         }
+
         return (int)(sign * num);
     }
 }
